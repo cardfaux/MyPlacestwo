@@ -7,6 +7,7 @@ const Users = () => {
 		{
 			id: 'u1',
 			name: 'James Hagood',
+			location: 'Carbon Hill, AL',
 			image:
 				'https://www.timesnews.net/image/2016/04/21/x700_q30/Hagood-James-Ralph-2016-Jpg.jpg',
 			places: 3
